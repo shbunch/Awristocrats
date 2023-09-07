@@ -46,10 +46,7 @@ The primary purpose of this project is to create an online shopping experience f
 
 ## URL
 
-<p align='center'>
-<a href='https://arcane-caverns-68488-3502f0db0406.herokuapp.com/'>
-<img src='./client/src/assets/images/ACQRcode.png' width="40%">CLICK QR CODE for deploy link<</a>
-</p>
+https://damp-journey-94466-b63fde88ae4f.herokuapp.com/
 
 
 ## Screenshots
