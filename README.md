@@ -46,7 +46,7 @@ The primary purpose of this project is to create an online shopping experience f
 
 ## URL
 
-https://damp-journey-94466-b63fde88ae4f.herokuapp.com/
+https://arcane-caverns-68488-3502f0db0406.herokuapp.com/
 
 
 ## Screenshots
